@@ -1,0 +1,118 @@
+//* Style till inlämning5*/
+body{
+  margin:0;
+}
+.container{
+  width:900px;
+  margin: auto;
+}
+h1{
+  font-family: helvetica;
+  color:darkgray;
+  padding-left:10px;
+}
+h2{
+  padding-top: 10px;
+  font-size:15px;
+}
+
+h3{
+  padding: 0;
+  font-size: 15px;
+  font-family: helvetica;
+}
+
+h5{
+  color:white;
+  font-family: helvetica;
+  font-size: 25px;
+}
+
+li{
+  list-style: none;
+}
+
+a {
+  text-decoration:none;
+  color:black;
+}
+a:hover{
+  color:orange;
+}
+
+.head {
+  padding: 5px;
+  margin: 10px 0 20px 0;
+}
+.head h1{
+  float:left;
+}
+.head ul{
+  float:right;
+}
+#navbar {
+  background-color: #F0BDCE;
+  padding-top: 10px;
+  padding-bottom:10px;
+  margin-bottom: 20px;
+  clear:left;
+}
+#navbar li{
+  display: inline;
+  padding: 10px 10px 10px 100px;
+}
+
+#section{
+  background-color:#EEE4E7;
+  float: left;
+  width: 500px;
+  margin-bottom:20px;
+  padding:20px 5px 60px 5px;
+  font-family: monospace;
+  text-align:center;
+  border:5px dotted gray;
+}
+#sidebar {
+  background-color:#F0DED4;
+  float: right;
+  width: 350px;
+  padding-top:20px;
+  margin:0 10px 100px 10px;
+  text-align:center;
+  border: 2px solid pink;
+  border-radius:15px;
+}
+#footer {
+  background-color:black;
+  color: white;
+  clear: left;
+  text-align:center;
+}
+#pic1{
+  width: 200px;
+}
+#pic2{
+  width: 300px;
+  height: 150;
+}
+ legend{
+   padding-bottom:10px;
+   font-weight:bold;
+ }
+ fieldset{
+   border:none;
+ }
+#submit{
+  margin-bottom: 10px;
+}
+#husbil1{
+  width:200px;
+  border: white 5px groove;
+}
+
+#footpic1{
+  width: 500px;
+  padding-top:30px;
+  border-radius: 15px;
+
+}

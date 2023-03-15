@@ -1,0 +1,16 @@
+
+/* kolla på google URL font länk */
+*{
+margin:o;
+padding:0;
+box-sizing: boarder-box;
+font-family: Yeseva One, cursive;
+}
+.header{
+  width:100%;
+  min-height:300vh;
+  background-image:url(yoga1.jpg);
+  background-size:cover;
+  background-position: center;
+  position:relative;
+}
